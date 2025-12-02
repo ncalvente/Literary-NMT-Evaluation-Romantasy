@@ -1,0 +1,22 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Documentos temporales
+~$*
+*.tmp
+*.bak
+
+# IDE
+.vscode/
+.idea/
+
+# Python (si hay scripts)
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Archivos de Office temporales
+~$*.docx
+~$*.xlsx
